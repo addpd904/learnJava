@@ -20,7 +20,7 @@ public class basisGrammar {
         System.out.println(max);
     }
     //b.process control
-    public static  void proControl(){
+    public static  void proControl1(){
 //        b.1 if
         int a=100;
         int num2=33;
@@ -58,8 +58,34 @@ public class basisGrammar {
             default:
                 System.out.println("well down");
         }
+//        b.2.2 caution 1.the switch has penetrativity penɪtrəˈtɪvəti
+//                      2. don't support double float long
+
     }
+    public static void proControl2(){
+//        b.3 for loop :structure :initiation statement ,loop condition ,iteration statement
+        for (int i=0;i<4;i++){
+            System.out.println("a for statement");
+            if (i==2)
+                break;
+        }
+//        b.4 while
+        int i=0;
+        while (i<3){
+            i++;
+        }
+//        b.5 do while :post-conditions
+        int j=0;
+        do{
+            System.out.println("this is a post-condition");
+            j++;
+        }while (j<2);
+//         b.6 endless loop
+//        for (;;){}
+//        while (true){}
+    }
+
     public static void main(String[] args){
-        proControl();
+        proControl2();
     }
 }
