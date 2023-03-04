@@ -47,7 +47,7 @@ class Dog extends Animal{
         System.out.println("wang wang wang~~~~");
     }
 }
-public class oob4polymorphism {
+public class oop4polymorphism {
     protected static void testVariableAndPoly(){
         //   方法调用：编译看左边，运行看右边。
         Animal cat1=new Cat();
