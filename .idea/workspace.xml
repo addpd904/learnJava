@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91f9d9f6-e3fe-422b-8217-a7c4f604e996" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stage3/Map2Properties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stage3/ParallelAndConcurrentExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stage3/Scheduled1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/learnJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/arrayAndFun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/arrayAndFun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/ArraysAndLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/ArraysAndLambda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/basisgrammar/arrayAndFun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/basisgrammar/arrayAndFun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stage2/ArraysAndLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stage2/ArraysAndLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage3/Log1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage3/Log1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stage2/oop4polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stage2/oop4polymorphism.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
       <recent name="E:\programme\Java\code\learnJava\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Log1">
+  <component name="RunManager" selected="Application.Reflection1">
     <configuration name="ArraysAndLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stage2.ArraysAndLambda" />
       <module name="learnJava" />
@@ -83,6 +80,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Multithreading1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stage3.Multithreading1" />
+      <module name="learnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stage3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reflection1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stage3.Reflection1" />
+      <module name="learnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stage3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stage2.Test" />
       <module name="learnJava" />
@@ -96,39 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperClassAndRE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stage2.WrapperClassAndRE" />
-      <module name="learnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stage2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="learnApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stage2.learnApi" />
-      <module name="learnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stage2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reflection1" />
+        <item itemvalue="Application.Multithreading1" />
         <item itemvalue="Application.Log1" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ArraysAndLambda" />
-        <item itemvalue="Application.WrapperClassAndRE" />
-        <item itemvalue="Application.learnApi" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +145,7 @@
       <workItem from="1677855254746" duration="3817000" />
       <workItem from="1677935494877" duration="6408000" />
       <workItem from="1677976320546" duration="14874000" />
+      <workItem from="1677998233772" duration="13233000" />
     </task>
     <servers />
   </component>
