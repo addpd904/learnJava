@@ -2,41 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91f9d9f6-e3fe-422b-8217-a7c4f604e996" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/stage2/ArraysAndLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stage2/learnApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stage2/oop6innerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/ArrayLis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/ArrayLis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/StingAndArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/StingAndArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/Str.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/Str.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stage3/Map2Properties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/learnJava.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/arrayAndFun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/arrayAndFun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/basisGrammar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/basisGrammar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/oop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/basisgrammar/oop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/HuaWei.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/HuaWei.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/Numtool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/Numtool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/People.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/Seanson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/Seanson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/StaticAndExtend.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/StaticAndExtend.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/codeBlo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/codeBlo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/college.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/college.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/composition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/composition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/constAndEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/constAndEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/oob4polymorphism.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/oop2AbstractClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/oop2AbstractClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/oop3pack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/oop3pack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/pupil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/pupil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/sinConD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/sinConD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/telephone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/telephone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stage2/oop4polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stage2/oop4polymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stage2/oop5interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stage2/oop5interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJava/com/stage2/ArraysAndLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/com/stage2/ArraysAndLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/basisgrammar/arrayAndFun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/basisgrammar/arrayAndFun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stage2/ArraysAndLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stage2/ArraysAndLambda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -72,15 +46,36 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\programme\Java\code\learnJava\src" />
+      <recent name="E:\programme\Java\code\learnJava\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Log1">
     <configuration name="ArraysAndLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stage2.ArraysAndLambda" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.stage2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Log1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stage3.Log1" />
+      <module name="learnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stage3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,19 +109,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basisGrammar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.basisgrammar.basisGrammar" />
-      <module name="learnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.basisgrammar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="learnApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stage2.learnApi" />
       <module name="learnJava" />
@@ -142,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Log1" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ArraysAndLambda" />
         <item itemvalue="Application.WrapperClassAndRE" />
         <item itemvalue="Application.learnApi" />
-        <item itemvalue="Application.basisGrammar" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +146,8 @@
       <workItem from="1677758813907" duration="1055000" />
       <workItem from="1677826980982" duration="836000" />
       <workItem from="1677855254746" duration="3817000" />
-      <workItem from="1677935494877" duration="206000" />
+      <workItem from="1677935494877" duration="6408000" />
+      <workItem from="1677976320546" duration="14874000" />
     </task>
     <servers />
   </component>

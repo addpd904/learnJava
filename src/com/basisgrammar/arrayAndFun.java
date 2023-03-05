@@ -25,6 +25,11 @@ public class arrayAndFun {
     }
     public static void func(int a,int c){
     }
+    /*
+    B.2 可变参数 接收参数非常灵活，方便。可以不接收参数，可以接收1个或者多个参数，也可以接收一个数组
+    可变参数在方法内部本质上就是一个数组。
+
+    */
     public static void main(String args[]){
 
     }
